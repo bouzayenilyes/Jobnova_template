@@ -63,18 +63,18 @@ export default function Footer({top}){
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="text-sm-start">
-                                <p className="mb-0 fw-medium">© {new Date().getFullYear()} Jobnova. Design & Develop with <i className="mdi mdi-heart text-danger"></i> by <Link href="https://shreethemes.in/" target="_blank" className="text-reset">Shreethemes</Link>.</p>
+                                <p className="mb-0 fw-medium">© {new Date().getFullYear()} Jobnova. Design & Develop with <i className="mdi mdi-heart text-danger"></i> by <Link href="https://Neovimmer.in/" target="_blank" className="text-reset">Neovimmer</Link>.</p>
                             </div>
                         </div>
 
                         <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                             <ul className="list-unstyled social-icon foot-social-icon text-sm-end mb-0">
                                 <li className="list-inline-item"><Link href="https://1.envato.market/jobnova-next" target="_blank" className="rounded"><FiShoppingCart className="fea icon-sm align-middle"/></Link></li>
-                                <li className="list-inline-item"><Link href="https://dribbble.com/shreethemes" target="_blank" className="rounded"><FiDribbble className="fea icon-sm align-middle"/></Link></li>
-                                <li className="list-inline-item"><Link href="http://linkedin.com/company/shreethemes" target="_blank" className="rounded"><FiLinkedin className="fea icon-sm align-middle"/></Link></li>
-                                <li className="list-inline-item"><Link href="https://www.facebook.com/shreethemes" target="_blank" className="rounded"><FiFacebook className="fea icon-sm align-middle"/></Link></li>
-                                <li className="list-inline-item"><Link href="https://www.instagram.com/shreethemes/" target="_blank" className="rounded"><FiInstagram className="fea icon-sm align-middle"/></Link></li>
-                                <li className="list-inline-item"><Link href="https://twitter.com/shreethemes" target="_blank" className="rounded"><FiTwitter className="fea icon-sm align-middle"/></Link></li>
+                                <li className="list-inline-item"><Link href="https://dribbble.com/Neovimmer" target="_blank" className="rounded"><FiDribbble className="fea icon-sm align-middle"/></Link></li>
+                                <li className="list-inline-item"><Link href="http://linkedin.com/company/Neovimmer" target="_blank" className="rounded"><FiLinkedin className="fea icon-sm align-middle"/></Link></li>
+                                <li className="list-inline-item"><Link href="https://www.facebook.com/Neovimmer" target="_blank" className="rounded"><FiFacebook className="fea icon-sm align-middle"/></Link></li>
+                                <li className="list-inline-item"><Link href="https://www.instagram.com/Neovimmer/" target="_blank" className="rounded"><FiInstagram className="fea icon-sm align-middle"/></Link></li>
+                                <li className="list-inline-item"><Link href="https://twitter.com/Neovimmer" target="_blank" className="rounded"><FiTwitter className="fea icon-sm align-middle"/></Link></li>
                             </ul>
                         </div>
                     </div>
